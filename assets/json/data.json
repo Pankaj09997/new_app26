@@ -1,0 +1,79 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "T-Shirt",
+        "price": 19.99,
+        "category": "Clothing",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80.jpg",
+        "description": "A comfortable cotton T-shirt in a variety of colors."
+      },
+      {
+        "id": 2,
+        "name": "Sneakers",
+        "price": 79.99,
+        "category": "Shoes",
+        "image": "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-trainer-sneaker-shoes--BO9U3PAG01_PM1_Worn%20view.png?wid=2048&hei=2048.jpg",
+        "description": "A stylish pair of sneakers made with durable materials."
+      },
+      {
+        "id": 3,
+        "name": "Handbag",
+        "price": 129.99,
+        "category": "Accessories",
+        "image": "https://img.freepik.com/free-photo/luxury-woman-handbag_1203-8391.jpg?w=2000&t=st=1674093998~exp=1674094598~hmac=0639fb7cacdc2cc6904c0ee3e6920682ce82f8572c7ac6fc0e595984df0312ee.jpg",
+        "description": "A fashionable handbag made from high-quality leather."
+      },
+      {
+        "id": 4,
+        "name": "Jeans",
+        "price": 59.99,
+        "category": "Clothing",
+        "image": "https://news.uga.edu/wp-content/uploads/2021/09/37952-006.jpg",
+        "description": "A pair of classic blue jeans made from durable denim."
+      },
+      {
+        "id": 5,
+        "name": "Watch",
+        "price": 149.99,
+        "category": "Accessories",
+        "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-400,w-775,cm-pad_resize/catalog/brandstore/johnson/111-2021_06_14-UN_CLP.jpg",
+        "description": "A sleek and stylish watch with a stainless steel band."
+      },
+      {
+        "id": 6,
+        "name": "Dress",
+        "price": 99.99,
+        "category": "Clothing",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dress_MET_19.181.1_F2.jpeg/1024px-Dress_MET_19.181.1_F2.jpg",
+        "description": "A elegant dress made from soft and flowy fabric."
+      },
+      {
+        "id": 7,
+        "name": "Sunglasses",
+        "price": 39.99,
+        "category": "Accessories",
+        "image": "https://powersoft365customers.blob.core.windows.net/he75420-ojo-sunglasses/Items/47OSG33003-A.jpg",
+        "description": "A pair of sunglasses with UV protection and polarized lenses."
+      },
+      {
+        "id": 8,
+        "name": "Shirt",
+        "price": 29.99,
+        "category": "Clothing",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F29%2F4e%2F294eda247571d97fe8c8e8e0a221768aba282c30.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "description": "A casual button-up shirt made from soft cotton."
+      },
+      {
+        "id": 9,
+        "name": "Shoes",
+        "price": 49.99,
+        "category": "Shoes",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Superstar_Shoes_White_EG4958_01_standard.jpg",
+        "description": "A comfortable and versatile pair of shoes."
+      }
+      
+  
+    ]
+  }
+  
